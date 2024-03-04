@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in working on several projects
+- 🌱 I’m currently learning Computer Programming and Analysis at Seneca College
+- 😄 Pronouns: He/Him
