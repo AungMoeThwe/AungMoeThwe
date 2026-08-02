@@ -66,7 +66,7 @@ tooling/      git   github   vercel   powershell   jira   npm
 
 ```text
 instagram   →  instagram.com/aung._.moe
-linkedin    →  linkedin.com/in/aung-moe-thwe-3601702a8
+linkedin    →  linkedin.com/in/aungmoethwe
 ```
 
 <br>
